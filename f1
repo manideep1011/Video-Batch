@@ -1,0 +1,10 @@
+How to create empty repository
+git init
+
+how to create user name and email
+
+git config --global user.name "XYZ"
+git config --global user.email "XYZ@gmail.com"
+
+How to 
+git config --list
